@@ -1,6 +1,6 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+title: Almokashfi Algiliy Omer
+url: "https://almokashfi.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
@@ -10,7 +10,7 @@ description: >
 email: your_email@example.com
 author: your_name
 avatar: "https://github.com/Almokashfi/Almokashfi.github.io/blob/gh-pages/photos/pp.jpeg?raw=true"
-profile: One sentence introducing yourself.
+profile: Welcome.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
